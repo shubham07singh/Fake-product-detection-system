@@ -67,11 +67,7 @@ Nowadays, small and medium-sized enterprises (SMEs) often have financial burdens
 ## Use Case Diagram : 
 ![usecase drawio](https://github.com/SURAJPATIL6088/Fake-Product-Identification-Using-Blockchain/assets/142288547/19fd6db6-0bc9-416d-9de0-e437c3247340)
 
-## Contributors : 
-
-| Project Guide  | Group Leader | Group Member 2 |  Group Member 3 | Group Member 4 |
-| -------------  | ------------ | -------------- | --------------- | -------------- |
-| Ms.Abira Banik | Suraj Patil  | Matlup Ali Mir |  Varad Patil    | Atharva Pimple |
 
 
->>>>>>> 6e1e758 (Initial commit)
+
+ 6e1e758 (Initial commit)
